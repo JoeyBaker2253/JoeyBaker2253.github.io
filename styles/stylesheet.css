@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+}
+
+body div {
+    width: 90%;
+    height: 500px;
+    display: inline-flex;
+    align-items: center;
+    margin: 0;
+    padding: 0 5%;
+    background-color: #201e20;
+    color: white;
+    justify-content: center;
+    align-content: center;
+}
+
+body div p {
+    font-size: 120px;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+body div p span {
+    color: #e0a96d;
+    font-family: sans-serif;
+}
+
+#name {
+    margin-left: 5%;
+    font-size: 80px;
+    text-decoration: underline;
+}
+
+#text {
+    font-family: 'Poppins', sans-serif;
+    font-size: 28px;
+    text-align: center;
+}
